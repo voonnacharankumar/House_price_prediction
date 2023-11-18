@@ -1,6 +1,4 @@
-
-Flask @ file:///C:/b/abs_ef16l83sif/croot/flask_1671217367534/work
-
-numpy @ file:///C:/b/abs_datssh7cer/croot/numpy_and_numpy_base_1672336199388/work
-
+Flask==2.2.2
+numpy==1.23.5
+scikit-learn==1.2.1
 streamlit==1.28.1
